@@ -1,0 +1,141 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Pyramid</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Apps/nodejs/node.exe">
+      <version-cache version="6.10.3" last-modified="1493712544000" />
+    </local-interpreter>
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="E:\CodeLab\venv\FlasklVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\CodeLab\venv\scrapyVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\CodeLab\venv\tornadoVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\Gitbox\Global_Venv\Scripts\python.exe" value="false" />
+        <entry key="E:\Gitbox\virtualenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\Gist\shop\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\FlasklVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\GlobalVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\djangoVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\flaskVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\ipyVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\scrapyVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\seleniumVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\tornadoVenv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="E:\CodeLab\venv\FlasklVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\CodeLab\venv\scrapyVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\CodeLab\venv\tornadoVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\Gitbox\Global_Venv\Scripts\python.exe" value="false" />
+        <entry key="E:\Gitbox\virtualenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\Gist\shop\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\FlasklVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\GlobalVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\djangoVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\flaskVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\ipyVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\scrapyVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\seleniumVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\tornadoVenv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="E:\Gitbox\Global_Venv\Scripts\python.exe" value="false" />
+        <entry key="E:\Gitbox\virtualenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\FlasklVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\GlobalVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\djangoVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\flaskVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\ipyVenv\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\scrapyVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\seleniumVenv\Scripts\python.exe" value="false" />
+        <entry key="E:\codeBox\testVenv\tornadoVenv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
