@@ -84,11 +84,11 @@
       </component>
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-        <property name="last_opened_file_path" value="" />
+        <property name="last_opened_file_path" value="E:/CodeLab/venv/py3/Scripts/python.exe" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
       </component>
       <component name="SvnConfiguration" myUseAcceleration="nothing">
-        <configuration></configuration>
+        <configuration>C:\Users\Destiny\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
@@ -110,8 +110,4 @@
       </component>
     </defaultProject>
   </component>
-<<<<<<< HEAD
 </application>
-=======
-</application>
->>>>>>> master

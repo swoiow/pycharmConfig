@@ -1,6 +1,18 @@
 <code_scheme name="Default" version="173">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <Python>
+    <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
+    <option name="DICT_WRAPPING" value="5" />
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
   </Python>
+  <codeStyleSettings language="Python">
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="SOFT_MARGINS" value="120" />
+  </codeStyleSettings>
 </code_scheme>
