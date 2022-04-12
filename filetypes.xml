@@ -1,0 +1,89 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="000055b2-0c5f-4688-a1a6-6d68b45f79b7" type="AUTO_DETECTED" />
+      <mapping pattern="111" type="AUTO_DETECTED" />
+      <mapping pattern="11" type="AUTO_DETECTED" />
+      <mapping pattern="cookie" type="AUTO_DETECTED" />
+      <mapping pattern="corefile" type="AUTO_DETECTED" />
+      <mapping pattern="1,txt" type="AUTO_DETECTED" />
+      <mapping pattern="server" type="AUTO_DETECTED" />
+      <mapping pattern="lambdas-success" type="AUTO_DETECTED" />
+      <mapping pattern="client" type="AUTO_DETECTED" />
+      <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping pattern="b" type="AUTO_DETECTED" />
+      <mapping pattern="debug" type="AUTO_DETECTED" />
+      <mapping pattern="0001c8ce-e0db-4f3d-9a05-35d7cac12cc5" type="AUTO_DETECTED" />
+      <mapping pattern="nftables" type="AUTO_DETECTED" />
+      <mapping pattern="orderheader" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile-*" type="Dockerfile" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping ext="tpl" type="HTML" />
+      <mapping ext="app" type="Nginx Configuration" />
+      <mapping pattern=".python-version" type="PLAIN_TEXT" />
+      <mapping pattern="pv" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
+      <mapping pattern="471afc38-ae4b-40e1-9751-f60a9c1222ea" type="PLAIN_TEXT" />
+      <mapping pattern="complex" type="PLAIN_TEXT" />
+      <mapping pattern="c8097728-98a8-4653-9d93-2d3d44c88e48" type="PLAIN_TEXT" />
+      <mapping pattern="0807" type="PLAIN_TEXT" />
+      <mapping pattern="查11-16" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping pattern="email-outlook" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="cpx" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="email-netease" type="PLAIN_TEXT" />
+      <mapping pattern="t1" type="PLAIN_TEXT" />
+      <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="0705" type="PLAIN_TEXT" />
+      <mapping pattern="Changelog" type="PLAIN_TEXT" />
+      <mapping pattern="cpl-srv" type="PLAIN_TEXT" />
+      <mapping pattern="email-tencent" type="PLAIN_TEXT" />
+      <mapping pattern="email-google" type="PLAIN_TEXT" />
+      <mapping pattern="sample" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="mobileconfig" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="pyz" type="PLAIN_TEXT" />
+      <mapping ext="pyc" type="PLAIN_TEXT" />
+      <mapping ext="corefile" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="not" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="dot" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="dmp" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="asar" type="PLAIN_TEXT" />
+      <mapping pattern="f4fc1001-760e-48ee-bcc4-b8efab161bd1" type="XHTML" />
+      <mapping ext="html" type="XHTML" />
+      <removed_mapping ext="app" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dot" approved="true" type="dot file" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="service" approved="true" type="Service unit configuration for systemd" />
+      <removed_mapping pattern="757b075c-0259-4046-b21f-824acec47ead" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile-pip" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile.jvm" approved="true" type="Dockerfile" />
+      <removed_mapping pattern="Dockerfile.native" approved="true" type="Dockerfile" />
+      <removed_mapping pattern="Jenkinsfile-*" approved="true" type="Terraform" />
+      <removed_mapping pattern="Jenkinsfile-dev" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Jenkinsfile-release" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="a" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="文档" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

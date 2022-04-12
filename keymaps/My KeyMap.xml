@@ -1,0 +1,39 @@
+<keymap version="1" name="My KeyMap" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="CopyReferencePopup">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Rerun" />
+  <action id="SmartTypeCompletion" />
+  <action id="Vcs.MoveChangedLinesToChangelist">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+</keymap>

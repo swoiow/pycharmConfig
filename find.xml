@@ -1,0 +1,24 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.sql</mask>
+    <mask>*.feature</mask>
+    <mask>*.yml</mask>
+    <mask>email-*</mask>
+    <mask>*.tpl</mask>
+    <mask>*.js</mask>
+    <mask>*.tf</mask>
+    <mask>*.sh</mask>
+    <mask>*.json</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.pyw</mask>
+    <mask>*.txt</mask>
+    <mask>*.xml</mask>
+    <mask>*.py</mask>
+  </component>
+</application>
